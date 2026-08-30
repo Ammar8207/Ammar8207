@@ -1,7 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&lines=Security+Researcher+in+Training;HTB+%7C+TryHackMe+%7C+CTFs;Cloud+Security+%7C+Offensive+Security;Started+from+zero.+Documenting+everything." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=550&lines=GHOST;Security+Researcher+in+Training;HTB+%7C+TryHackMe+%7C+CTFs;Cloud+Security+%7C+Offensive+Security;Started+from+zero.+Documenting+everything." alt="Typing SVG" />
 
 <br/>
+
+█▀▀ █░█ █▀█ █▀ ▀█▀
+█▄█ █▀█ █▄█ ▄█ ░█░
 
 ### Ammar Hashmi
 **Cybersecurity · Cloud Security · Penetration Testing**  
