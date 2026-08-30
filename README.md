@@ -3,10 +3,10 @@
 
 <br/>
 
-```
-█▀▀ █░█ █▀█ █▀ ▀█▀
-█▄█ █▀█ █▄█ ▄█ ░█░
-```
+                                                      ```
+                                                      █▀▀ █░█ █▀█ █▀ ▀█▀
+                                                      █▄█ █▀█ █▄█ ▄█ ░█░
+                                                      ```
 
 ### Ammar Hashmi
 **Cybersecurity · Cloud Security · Penetration Testing**  
