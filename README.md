@@ -3,11 +3,7 @@
 
 <br/>
 
-                                                      ```
-                                                      █▀▀ █░█ █▀█ █▀ ▀█▀
-                                                      █▄█ █▀█ █▄█ ▄█ ░█░
-                                                      ```
-
+                      
 ### Ammar Hashmi
 **Cybersecurity · Cloud Security · Penetration Testing**  
 *BS Computer Science — University of Karachi*
