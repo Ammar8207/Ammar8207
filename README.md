@@ -33,7 +33,7 @@ Actively doing HTB machines, TryHackMe CTFs, and write-ups to grow a practical p
 
 | Platform | Count | Topics |
 |----------|-------|--------|
-| [Hack The Box](https://github.com/Ammar8207/cybersecurity-labs/tree/main/htb) | 18 machines | Web, privesc, Active Directory, cloud |
+| [Hack The Box](https://github.com/Ammar8207/cybersecurity-labs/tree/main/htb) | 18+ machines | Web, privesc, Active Directory, cloud |
 | [TryHackMe](https://github.com/Ammar8207/cybersecurity-labs/tree/main/thm) | 22+ rooms | SOC, forensics, web, cloud, AI security |
 | [Hacker Holidays 2026](https://github.com/Ammar8207/cybersecurity-labs/tree/main/thm) | 14-room CTF series | Azure, WMI forensics, prompt injection, boot2root |
 | [Wazuh SIEM Lab](https://github.com/Ammar8207/wazuh-lab) | Home lab | Real-time detection, SSH brute force, CIS compliance |
